@@ -33,6 +33,10 @@ export const metadata: Metadata = {
     "play games",
     "game discovery",
   ],
+  icons: {
+    icon: "/favicon.ico",
+    shortcut: "/favicon.ico",
+  },
   authors: [{ name: SITE.name }],
   openGraph: {
     type: "website",

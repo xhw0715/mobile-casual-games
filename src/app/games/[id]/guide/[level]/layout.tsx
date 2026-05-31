@@ -5,8 +5,12 @@ import { SITE } from "@/lib/seo";
 import { slugify } from "@/lib/slugify";
 
 async function findGameBySlug(slug: string) {
-  const allGames = await db.select().from(games);
-  return allGames.find((g) => slugify(g.title) === slug) ?? null;
+  try {
+    const allGames = await db.select().from(games);
+    return allGames.find((g) => slugify(g.title) === slug) ?? null;
+  } catch {
+    return null;
+  }
 }
 
 export async function generateMetadata({

@@ -4,8 +4,6 @@ import { games } from "@/db/schema";
 import { slugify } from "@/lib/slugify";
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const allGames = await db.select().from(games);
-
   const staticRoutes: MetadataRoute.Sitemap = [
     {
       url: "https://mobilecasualgames.com",
@@ -21,12 +19,18 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     },
   ];
 
-  const gameRoutes: MetadataRoute.Sitemap = allGames.map((game) => ({
-    url: `https://mobilecasualgames.com/games/${slugify(game.title)}`,
-    lastModified: game.createdAt ?? new Date(),
-    changeFrequency: "weekly" as const,
-    priority: 0.8,
-  }));
+  if (!process.env.DATABASE_URL) return staticRoutes;
 
-  return [...staticRoutes, ...gameRoutes];
+  try {
+    const allGames = await db.select().from(games);
+    const gameRoutes: MetadataRoute.Sitemap = allGames.map((game) => ({
+      url: `https://mobilecasualgames.com/games/${slugify(game.title)}`,
+      lastModified: game.createdAt ?? new Date(),
+      changeFrequency: "weekly" as const,
+      priority: 0.8,
+    }));
+    return [...staticRoutes, ...gameRoutes];
+  } catch {
+    return staticRoutes;
+  }
 }
