@@ -1,0 +1,764 @@
+[
+  {
+    "level": 1,
+    "name": "level 1",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-1.webp",
+    "videoUrl": "https://www.youtube.com/embed/BaGXdl5-iu4"
+  },
+  {
+    "level": 6,
+    "name": "level 6",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-6.webp",
+    "videoUrl": "https://www.youtube.com/embed/0YTONRG6NMw"
+  },
+  {
+    "level": 7,
+    "name": "level 7",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-7.webp",
+    "videoUrl": "https://www.youtube.com/embed/lYndxj66k5U"
+  },
+  {
+    "level": 8,
+    "name": "level 8",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-8.webp",
+    "videoUrl": "https://www.youtube.com/embed/v5vHUUI20Dg"
+  },
+  {
+    "level": 9,
+    "name": "level 9",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-9.webp",
+    "videoUrl": "https://www.youtube.com/embed/2ljsFHbKvMc"
+  },
+  {
+    "level": 10,
+    "name": "level 10",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-10.webp",
+    "videoUrl": "https://www.youtube.com/embed/iBPJk-18SJM"
+  },
+  {
+    "level": 11,
+    "name": "level 11",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-11.webp",
+    "videoUrl": "https://www.youtube.com/embed/_x3EJmiRjBo"
+  },
+  {
+    "level": 12,
+    "name": "level 12",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-12.webp",
+    "videoUrl": "https://www.youtube.com/embed/U8lM7D-BrAY"
+  },
+  {
+    "level": 13,
+    "name": "level 13",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-13.webp",
+    "videoUrl": "https://www.youtube.com/embed/bSN3SvkydpM"
+  },
+  {
+    "level": 14,
+    "name": "level 14",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-14.webp",
+    "videoUrl": "https://www.youtube.com/embed/8Y7zBaP7fzc"
+  },
+  {
+    "level": 15,
+    "name": "level 15",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-15.webp",
+    "videoUrl": "https://www.youtube.com/embed/Ljv8uNkAnTo"
+  },
+  {
+    "level": 16,
+    "name": "level 16",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-16.webp",
+    "videoUrl": "https://www.youtube.com/embed/IDVFqIj-M4c"
+  },
+  {
+    "level": 17,
+    "name": "level 17",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-17.webp",
+    "videoUrl": "https://www.youtube.com/embed/CFS6WhQ8QjU"
+  },
+  {
+    "level": 18,
+    "name": "level 18",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-18.webp",
+    "videoUrl": "https://www.youtube.com/embed/whfRNmnPBS0"
+  },
+  {
+    "level": 19,
+    "name": "level 19",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-19.webp",
+    "videoUrl": "https://www.youtube.com/embed/ut7MPiai4C4"
+  },
+  {
+    "level": 21,
+    "name": "level 21",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-21.webp",
+    "videoUrl": "https://www.youtube.com/embed/vMbncIQpObI"
+  },
+  {
+    "level": 22,
+    "name": "level 22",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-22.webp",
+    "videoUrl": "https://www.youtube.com/embed/WWeWwWzA_8I"
+  },
+  {
+    "level": 23,
+    "name": "level 23",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-23.webp",
+    "videoUrl": "https://www.youtube.com/embed/lxnvK3ybj3Y"
+  },
+  {
+    "level": 24,
+    "name": "level 24",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-24.webp",
+    "videoUrl": "https://www.youtube.com/embed/TOkwIBgNBuo"
+  },
+  {
+    "level": 20,
+    "name": "level 20",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-20.webp",
+    "videoUrl": "https://www.youtube.com/embed/Y0Z_cxr-wPk"
+  },
+  {
+    "level": 25,
+    "name": "level 25",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-25.webp",
+    "videoUrl": "https://www.youtube.com/embed/ICQESDTc3F0"
+  },
+  {
+    "level": 26,
+    "name": "level 26",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-26.webp",
+    "videoUrl": "https://www.youtube.com/embed/X82JwRQHyjE"
+  },
+  {
+    "level": 27,
+    "name": "level 27",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-27.webp",
+    "videoUrl": "https://www.youtube.com/embed/U3E0AJOOfXM"
+  },
+  {
+    "level": 28,
+    "name": "level 28",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-28.webp",
+    "videoUrl": "https://www.youtube.com/embed/yyN9MpzFdH4"
+  },
+  {
+    "level": 29,
+    "name": "level 29",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-29.webp",
+    "videoUrl": "https://www.youtube.com/embed/rDSFeG7zLVo"
+  },
+  {
+    "level": 30,
+    "name": "level 30",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-30.webp",
+    "videoUrl": "https://www.youtube.com/embed/zc63DjdLGPE"
+  },
+  {
+    "level": 31,
+    "name": "level 31",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-31.webp",
+    "videoUrl": "https://www.youtube.com/embed/Iq_EXlyWn_g"
+  },
+  {
+    "level": 32,
+    "name": "level 32",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-32.webp",
+    "videoUrl": "https://www.youtube.com/embed/tSojSiyuDTQ"
+  },
+  {
+    "level": 33,
+    "name": "level 33",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-33.webp",
+    "videoUrl": "https://www.youtube.com/embed/dXWOQ235aII"
+  },
+  {
+    "level": 34,
+    "name": "level 34",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-34.webp",
+    "videoUrl": "https://www.youtube.com/embed/sKb79xP0Db4"
+  },
+  {
+    "level": 35,
+    "name": "level 35",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-35.webp",
+    "videoUrl": "https://www.youtube.com/embed/9_rivkNJ4Dk"
+  },
+  {
+    "level": 36,
+    "name": "level 36",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-36.webp",
+    "videoUrl": "https://www.youtube.com/embed/II4A3y8Tjd4"
+  },
+  {
+    "level": 37,
+    "name": "level 37",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-37.webp",
+    "videoUrl": "https://www.youtube.com/embed/NjLInqHSAtY"
+  },
+  {
+    "level": 38,
+    "name": "level 38",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-38.webp",
+    "videoUrl": "https://www.youtube.com/embed/EXhWEzeePW0"
+  },
+  {
+    "level": 39,
+    "name": "level 39",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-39.webp",
+    "videoUrl": "https://www.youtube.com/embed/DaVCyXmOvHY"
+  },
+  {
+    "level": 40,
+    "name": "level 40",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-40.webp",
+    "videoUrl": "https://www.youtube.com/embed/5V1i2u4Vs5Y"
+  },
+  {
+    "level": 41,
+    "name": "level 41",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-41.webp",
+    "videoUrl": "https://www.youtube.com/embed/LPs9LFK9-Q8"
+  },
+  {
+    "level": 42,
+    "name": "level 42",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-42.webp",
+    "videoUrl": "https://www.youtube.com/embed/t8GkSAhdt40"
+  },
+  {
+    "level": 43,
+    "name": "level 43",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-43.webp",
+    "videoUrl": "https://www.youtube.com/embed/bthrE_G58Vk"
+  },
+  {
+    "level": 44,
+    "name": "level 44",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-44.webp",
+    "videoUrl": "https://www.youtube.com/embed/KKmF2aibvsw"
+  },
+  {
+    "level": 45,
+    "name": "level 45",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-45.webp",
+    "videoUrl": "https://www.youtube.com/embed/2mk9EFeEIbc"
+  },
+  {
+    "level": 46,
+    "name": "level 46",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-46.webp",
+    "videoUrl": "https://www.youtube.com/embed/Fj8KghCUYho"
+  },
+  {
+    "level": 47,
+    "name": "level 47",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-47.webp",
+    "videoUrl": "https://www.youtube.com/embed/tZHi-qRuCYk"
+  },
+  {
+    "level": 48,
+    "name": "level 48",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-48.webp",
+    "videoUrl": "https://www.youtube.com/embed/lI9N9NOCOWc"
+  },
+  {
+    "level": 49,
+    "name": "level 49",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-49.webp",
+    "videoUrl": "https://www.youtube.com/embed/XyDCothHI0E"
+  },
+  {
+    "level": 50,
+    "name": "level 50",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-50.webp",
+    "videoUrl": "https://www.youtube.com/embed/U-JuEST0Vyc"
+  },
+  {
+    "level": 51,
+    "name": "level 51",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-51.webp",
+    "videoUrl": "https://www.youtube.com/embed/2MHrtL0wUjI"
+  },
+  {
+    "level": 52,
+    "name": "level 52",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-52.webp",
+    "videoUrl": "https://www.youtube.com/embed/TXPY7UEG8_k"
+  },
+  {
+    "level": 53,
+    "name": "level 53",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-53.webp",
+    "videoUrl": "https://www.youtube.com/embed/O-u9pNOqUes"
+  },
+  {
+    "level": 54,
+    "name": "level 54",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-54.webp",
+    "videoUrl": "https://www.youtube.com/embed/L_8ETbTF85U"
+  },
+  {
+    "level": 55,
+    "name": "level 55",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-55.webp",
+    "videoUrl": "https://www.youtube.com/embed/EVrVWt5_4Zc"
+  },
+  {
+    "level": 56,
+    "name": "level 56",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-56.webp",
+    "videoUrl": "https://www.youtube.com/embed/DdfIRJgLZvo"
+  },
+  {
+    "level": 57,
+    "name": "level 57",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-57.webp",
+    "videoUrl": "https://www.youtube.com/embed/FbHf1cWy7ps"
+  },
+  {
+    "level": 58,
+    "name": "level 58",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-58.webp",
+    "videoUrl": "https://www.youtube.com/embed/MeD_6wIiV3M"
+  },
+  {
+    "level": 60,
+    "name": "level 60",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-60.webp",
+    "videoUrl": "https://www.youtube.com/embed/MhR07ZqYIZM"
+  },
+  {
+    "level": 61,
+    "name": "level 61",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-61.webp",
+    "videoUrl": "https://www.youtube.com/embed/ifbkC7H0jVA"
+  },
+  {
+    "level": 62,
+    "name": "level 62",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-62.webp",
+    "videoUrl": "https://www.youtube.com/embed/pbWfka4btxI"
+  },
+  {
+    "level": 63,
+    "name": "level 63",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-63.webp",
+    "videoUrl": "https://www.youtube.com/embed/xo4iUA98avQ"
+  },
+  {
+    "level": 64,
+    "name": "level 64",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-64.webp",
+    "videoUrl": "https://www.youtube.com/embed/wCmDjxmMNjc"
+  },
+  {
+    "level": 65,
+    "name": "level 65",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-65.webp",
+    "videoUrl": "https://www.youtube.com/embed/0vosk8KuPfk"
+  },
+  {
+    "level": 66,
+    "name": "level 66",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-66.webp",
+    "videoUrl": "https://www.youtube.com/embed/SEAVr0Rb5WE"
+  },
+  {
+    "level": 67,
+    "name": "level 67",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-67.webp",
+    "videoUrl": "https://www.youtube.com/embed/Vo7d9AD9FEA"
+  },
+  {
+    "level": 68,
+    "name": "level 68",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-68.webp",
+    "videoUrl": "https://www.youtube.com/embed/v7ogQ_cWTVY"
+  },
+  {
+    "level": 69,
+    "name": "level 69",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-69.webp",
+    "videoUrl": "https://www.youtube.com/embed/0xGRF7gB8dM"
+  },
+  {
+    "level": 70,
+    "name": "level 70",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-70.webp",
+    "videoUrl": "https://www.youtube.com/embed/Ye2Ner8dONE"
+  },
+  {
+    "level": 71,
+    "name": "level 71",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-71.webp",
+    "videoUrl": "https://www.youtube.com/embed/DNj0ZMMWj2M"
+  },
+  {
+    "level": 72,
+    "name": "level 72",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-72.webp",
+    "videoUrl": "https://www.youtube.com/embed/XOSwfjHcxJE"
+  },
+  {
+    "level": 73,
+    "name": "level 73",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-73.webp",
+    "videoUrl": "https://www.youtube.com/embed/2ypRO52d-6c"
+  },
+  {
+    "level": 75,
+    "name": "level 75",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-75.webp",
+    "videoUrl": "https://www.youtube.com/embed/19rz0dfzROg"
+  },
+  {
+    "level": 76,
+    "name": "level 76",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-76.webp",
+    "videoUrl": "https://www.youtube.com/embed/kvrSm9iaKaU"
+  },
+  {
+    "level": 77,
+    "name": "level 77",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-77.webp",
+    "videoUrl": "https://www.youtube.com/embed/JWcpZVE1ZFw"
+  },
+  {
+    "level": 78,
+    "name": "level 78",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-78.webp",
+    "videoUrl": "https://www.youtube.com/embed/l6hyeEaDX-Q"
+  },
+  {
+    "level": 79,
+    "name": "level 79",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-79.webp",
+    "videoUrl": "https://www.youtube.com/embed/lii-mNbpIko"
+  },
+  {
+    "level": 80,
+    "name": "level 80",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-80.webp",
+    "videoUrl": "https://www.youtube.com/embed/o8K-SEkLFgI"
+  },
+  {
+    "level": 81,
+    "name": "level 81",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-81.webp",
+    "videoUrl": "https://www.youtube.com/embed/uYxCYlN2L_s"
+  },
+  {
+    "level": 82,
+    "name": "level 82",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-82.webp",
+    "videoUrl": "https://www.youtube.com/embed/rV4GrfMpEEg"
+  },
+  {
+    "level": 83,
+    "name": "level 83",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-83.webp",
+    "videoUrl": "https://www.youtube.com/embed/4WESAmIVWuw"
+  },
+  {
+    "level": 84,
+    "name": "level 84",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-84.webp",
+    "videoUrl": "https://www.youtube.com/embed/KMkmTndqV3Q"
+  },
+  {
+    "level": 85,
+    "name": "level 85",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-85.webp",
+    "videoUrl": "https://www.youtube.com/embed/o6Ynr7jH6DU"
+  },
+  {
+    "level": 86,
+    "name": "level 86",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-86.webp",
+    "videoUrl": "https://www.youtube.com/embed/lwDE27mpbHE"
+  },
+  {
+    "level": 87,
+    "name": "level 87",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-87.webp",
+    "videoUrl": "https://www.youtube.com/embed/ba6wcrjgqMc"
+  },
+  {
+    "level": 88,
+    "name": "level 88",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-88.webp",
+    "videoUrl": "https://www.youtube.com/embed/JfLsdkPgc9c"
+  },
+  {
+    "level": 89,
+    "name": "level 89",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-89.webp",
+    "videoUrl": "https://www.youtube.com/embed/Aw55kGwZ62M"
+  },
+  {
+    "level": 90,
+    "name": "level 90",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-90.webp",
+    "videoUrl": "https://www.youtube.com/embed/WKw8f-w0qaY"
+  },
+  {
+    "level": 91,
+    "name": "level 91",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-91.webp",
+    "videoUrl": "https://www.youtube.com/embed/W64h4hndd4Y"
+  },
+  {
+    "level": 92,
+    "name": "level 92",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-92.webp",
+    "videoUrl": "https://www.youtube.com/embed/jcnTFwKmsLw"
+  },
+  {
+    "level": 93,
+    "name": "level 93",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-93.webp",
+    "videoUrl": "https://www.youtube.com/embed/0bQ3ZScKPx0"
+  },
+  {
+    "level": 94,
+    "name": "level 94",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-94.webp",
+    "videoUrl": "https://www.youtube.com/embed/TVZiiXZIN9I"
+  },
+  {
+    "level": 95,
+    "name": "level 95",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-95.webp",
+    "videoUrl": "https://www.youtube.com/embed/a5nhlNEN9xQ"
+  },
+  {
+    "level": 96,
+    "name": "level 96",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-96.webp",
+    "videoUrl": "https://www.youtube.com/embed/TuU675rpexg"
+  },
+  {
+    "level": 97,
+    "name": "level 97",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-97.webp",
+    "videoUrl": "https://www.youtube.com/embed/JU6GkOH1cww"
+  },
+  {
+    "level": 98,
+    "name": "level 98",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-98.webp",
+    "videoUrl": "https://www.youtube.com/embed/1xu2XTGGs8Q"
+  },
+  {
+    "level": 100,
+    "name": "level 100",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-100.webp",
+    "videoUrl": "https://www.youtube.com/embed/kQ4PjZJMK1k"
+  },
+  {
+    "level": 101,
+    "name": "level 101",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-101.webp",
+    "videoUrl": "https://www.youtube.com/embed/HBHQP0MKslU"
+  },
+  {
+    "level": 102,
+    "name": "level 102",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-102.webp",
+    "videoUrl": "https://www.youtube.com/embed/89rGzn_2et8"
+  },
+  {
+    "level": 103,
+    "name": "level 103",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-103.webp",
+    "videoUrl": "https://www.youtube.com/embed/s-Tqdm2jOqU"
+  },
+  {
+    "level": 104,
+    "name": "level 104",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-104.webp",
+    "videoUrl": "https://www.youtube.com/embed/vpzYueQtEqg"
+  },
+  {
+    "level": 105,
+    "name": "level 105",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-105.webp",
+    "videoUrl": "https://www.youtube.com/embed/GpQcPvf9Tpo"
+  },
+  {
+    "level": 106,
+    "name": "level 106",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-106.webp",
+    "videoUrl": "https://www.youtube.com/embed/n__JMg7o7jg"
+  },
+  {
+    "level": 107,
+    "name": "level 107",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-107.webp",
+    "videoUrl": "https://www.youtube.com/embed/eR59xI7-ht8"
+  },
+  {
+    "level": 108,
+    "name": "level 108",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-108.webp",
+    "videoUrl": "https://www.youtube.com/embed/K4pXzBI7aw8"
+  },
+  {
+    "level": 109,
+    "name": "level 109",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-109.webp",
+    "videoUrl": "https://www.youtube.com/embed/XSc3F-_oung"
+  },
+  {
+    "level": 110,
+    "name": "level 110",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-110.webp",
+    "videoUrl": "https://www.youtube.com/embed/euD7XYxpmJ4"
+  },
+  {
+    "level": 111,
+    "name": "level 111",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-111.webp",
+    "videoUrl": "https://www.youtube.com/embed/QUGq1GA4ds4"
+  },
+  {
+    "level": 112,
+    "name": "level 112",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-112.webp",
+    "videoUrl": "https://www.youtube.com/embed/3s9fwpwGV60"
+  },
+  {
+    "level": 113,
+    "name": "level 113",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-113.webp",
+    "videoUrl": "https://www.youtube.com/embed/DIuw4Cei-3g"
+  },
+  {
+    "level": 114,
+    "name": "level 114",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-114.webp",
+    "videoUrl": "https://www.youtube.com/embed/o51ly3UjyxY"
+  },
+  {
+    "level": 115,
+    "name": "level 115",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-115.webp",
+    "videoUrl": "https://www.youtube.com/embed/F4XD6Qs0AeU"
+  },
+  {
+    "level": 116,
+    "name": "level 116",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-116.webp",
+    "videoUrl": "https://www.youtube.com/embed/OC8fKXk7ekc"
+  },
+  {
+    "level": 117,
+    "name": "level 117",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-117.webp",
+    "videoUrl": "https://www.youtube.com/embed/EOVymxwCTY0"
+  },
+  {
+    "level": 118,
+    "name": "level 118",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-118.webp",
+    "videoUrl": "https://www.youtube.com/embed/FdOl1jIsIwA"
+  },
+  {
+    "level": 119,
+    "name": "level 119",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-119.webp",
+    "videoUrl": "https://www.youtube.com/embed/tAp2Bsy5KuU"
+  },
+  {
+    "level": 120,
+    "name": "level 120",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-120.webp",
+    "videoUrl": "https://www.youtube.com/embed/_Jqap1cyNgI"
+  },
+  {
+    "level": 121,
+    "name": "level 121",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-121.webp",
+    "videoUrl": "https://www.youtube.com/embed/g2-KRlSKHnI"
+  },
+  {
+    "level": 123,
+    "name": "level 123",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-123.webp",
+    "videoUrl": "https://www.youtube.com/embed/eocNGYWs9xA"
+  },
+  {
+    "level": 124,
+    "name": "level 124",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-124.webp",
+    "videoUrl": "https://www.youtube.com/embed/3bYi7BNke1k"
+  },
+  {
+    "level": 125,
+    "name": "level 125",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-125.webp",
+    "videoUrl": "https://www.youtube.com/embed/rYGumV6YYAQ"
+  },
+  {
+    "level": 126,
+    "name": "level 126",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-126.webp",
+    "videoUrl": "https://www.youtube.com/embed/_28brkMrbyY"
+  },
+  {
+    "level": 127,
+    "name": "level 127",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-127.webp",
+    "videoUrl": "https://www.youtube.com/embed/aT5vGY5JkuA"
+  },
+  {
+    "level": 128,
+    "name": "level 128",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-128.webp",
+    "videoUrl": "https://www.youtube.com/embed/HhWflzWH9G4"
+  },
+  {
+    "level": 129,
+    "name": "level 129",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-129.webp",
+    "videoUrl": "https://www.youtube.com/embed/54VHYTBItAc"
+  },
+  {
+    "level": 130,
+    "name": "level 130",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-130.webp",
+    "videoUrl": "https://www.youtube.com/embed/_vs04j8GFiY"
+  },
+  {
+    "level": 131,
+    "name": "level 131",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-131.webp",
+    "videoUrl": "https://www.youtube.com/embed/NXVNolE1PeI"
+  },
+  {
+    "level": 132,
+    "name": "level 132",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-132.webp",
+    "videoUrl": "https://www.youtube.com/embed/fY03uMX2O7s"
+  },
+  {
+    "level": 133,
+    "name": "level 133",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-133.webp",
+    "videoUrl": "https://www.youtube.com/embed/vl44U5EyFfU"
+  },
+  {
+    "level": 134,
+    "name": "level 134",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-134.webp",
+    "videoUrl": "https://www.youtube.com/embed/pEiCQbmjqZE"
+  },
+  {
+    "level": 135,
+    "name": "level 135",
+    "image": "https://r2.mobilecasualgames.com/bus-traffic-fever/level-135.webp",
+    "videoUrl": "https://www.youtube.com/embed/cJWIyZ50eHU"
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "files.associations": {
+    "*.vue": "vue",
+    "*.wpy": "vue",
+    "*.wxml": "html",
+    "*.wxss": "css"
+  },
+  "git.enableSmartCommit": true,
+  "git.autofetch": true,
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.showAbbreviationSuggestions": true,
+  "emmet.showExpandedAbbreviation": "always",
+  "emmet.includeLanguages": {
+    "vue-html": "html",
+    "vue": "html",
+    "wpy": "html"
+  },
+  //主题颜色
+  "git.confirmSync": false,
+  "explorer.confirmDelete": false,
+  "editor.fontSize": 15,
+  "window.zoomLevel": 1,
+  "editor.wordWrap": "on",
+  "editor.detectIndentation": false,
+  // 重新设定tabsize
+  "editor.tabSize": 2,
+  // #值设置为true时，每次保存的时候自动格式化；
+  "editor.formatOnSave": true,
+  // 粘贴时格式化代码
+  "editor.formatOnPaste": true,
+  // typescript文件格式化
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  // javascript文件格式化
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  // vue文件格式化
+  "[vue]": {
+    "editor.defaultFormatter": "Vue.volar"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  // vue文件格式化
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "eslint.codeActionsOnSave.rules": null,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "i18n-ally.localesPaths": ["src/lang", "public/ueditor/lang"]
+}
